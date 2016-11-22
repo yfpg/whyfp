@@ -1,2 +1,3 @@
-* Why Functional Programming Matter
-	[[][]]
+* Why Functional Programming Matters - John Hughes
+  [[http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Whyfp92]]
+  
