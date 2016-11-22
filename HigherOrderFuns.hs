@@ -1,4 +1,4 @@
-module Whyfp where
+module HigherOrderFuns where
 
 -- Glueing Functions Together
 
